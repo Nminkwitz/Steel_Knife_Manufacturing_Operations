@@ -1,6 +1,3 @@
-# Operational Analysis of the Steel Knife Manufacturing Industry
-# Final Project Description
+#  Final Project Description - Operational Analysis of the Steel Knife Manufacturing Industry
 
-This is an operational analysis of the Steel Knife Manufacturing Industry. The goal of this project is to choose an industry and then utilize some operational tool from the course to identify the problems and offer reccomendations or solutions for the process. 
-
-This repository includes a final paper, presentation, and excel file with utilization calculations to demonstrate my research and findings. 
+This is an operational analysis of the Steel Knife Manufacturing Industry. The goal of this project is to choose an industry, identify an operational and/or supply chain management question faced by that industry, and then utilize a tool or concept provided in the course to address that industry's problem. This repository includes a final paper, presentation, and excel file with utilization calculations to demonstrate my research and findings. 
